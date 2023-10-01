@@ -1,4 +1,4 @@
-![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/dafa2e51-4ce7-47c5-98c1-e7d7f0f6329d)# Restaurant-Recommendation-Model
+## Restaurant-Recommendation-Model
 
 ## Introduction
 
@@ -59,7 +59,7 @@ Location Prediction using Logistic Regression and Random Forest Classifier : Dev
 
 
 ![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/77f9a0c3-45c7-407f-822f-345b1a37a381)
-![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/77f9a0c3-45c7-407f-822f-345b1a37a381)
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/dafa2e51-4ce7-47c5-98c1-e7d7f0f6329d)
 ![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/81c3608a-e0ff-4834-8209-ce4a1f6444f7)
 
 
