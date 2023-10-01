@@ -8,7 +8,8 @@ Welcome to the Restaurant Recommendation Model repository! This project aims to 
 
 
 
-<p align="center"><img src="https://camo.githubusercontent.com/9873bda0ab2987caef5c0d8255c0daf4f447dc9b889389651bf3bc52d5f9e9bd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f312f31322f5377696767795f6c6f676f2e7376672f3132303070782d5377696767795f6c6f676f2e7376672e706e67" width="400" ></p>
+<p align="center"><img ![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/43123e3b-32d5-4c85-bd88-6ff3b5abaf0e) width="400" ></p>
+
 
 
 ## Problem Aimed to Solve
@@ -38,19 +39,19 @@ The following methodology was used to accomplish the project objectives:
 
 1. _Data Scraping:_We've harnessed the power of Selenium and BeautifulSoup in Python to scrape restaurant data from the Swiggy website. Selenium enables us to interact with the website, while BeautifulSoup helps extract relevant information from the HTML content
 
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/scrapped%201.jpeg" width="800" >
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/scrapped%202.jpeg" width="800" >
+<![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/71bb09ca-ecdb-41b4-838c-7c851c7197d2) width="800" >
+<![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/71bb09ca-ecdb-41b4-838c-7c851c7197d2) width="800" >
 
 
 2. _Data Conversion:_ Utilizing Excel, the scraped data underwent transformation into  table.
 
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/final%20cleaned%201.jpeg" width="800" >
+<![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/2cec2571-2fcb-41c7-90ce-90674583264e) width="800" >
 
 
 3. _Data Cleaning and Preparation:_ The collected data has undergone thorough cleaning using Excel and Python(pandas). This process includes handling missing values, removing duplicates, and ensuring data consistency.
 
 
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/final%20cleaned%202.jpeg" width="800" >
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/f93cc20f-e5c4-49c4-aeaa-c29743fedb59) width="800" >
 
 
 4. _Prediction:_ 
