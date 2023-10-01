@@ -1,4 +1,4 @@
-# Restaurant-Recommendation-Model
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/dafa2e51-4ce7-47c5-98c1-e7d7f0f6329d)# Restaurant-Recommendation-Model
 
 ## Introduction
 
@@ -8,8 +8,7 @@ Welcome to the Restaurant Recommendation Model repository! This project aims to 
 
 
 
-<p align="center"><img ![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/43123e3b-32d5-4c85-bd88-6ff3b5abaf0e) width="400" ></p>
-
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/43123e3b-32d5-4c85-bd88-6ff3b5abaf0e)
 
 
 ## Problem Aimed to Solve
@@ -20,7 +19,7 @@ Welcome to the Restaurant Recommendation Model repository! This project aims to 
 
  → **Seamless Dining Discovery** : Swiggy users often encounter frustration when searching for dining options. Our solution involves a user-friendly recommendation webpage that simplifies restaurant selection, heightening convenience, satisfaction, and the exploration of partner offerings.
 
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+## **User's Manual**
 
 | Files/Folder| Description |
 | ------------- | ------------- |
@@ -39,19 +38,19 @@ The following methodology was used to accomplish the project objectives:
 
 1. _Data Scraping:_We've harnessed the power of Selenium and BeautifulSoup in Python to scrape restaurant data from the Swiggy website. Selenium enables us to interact with the website, while BeautifulSoup helps extract relevant information from the HTML content
 
-<![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/71bb09ca-ecdb-41b4-838c-7c851c7197d2) width="800" >
-<![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/71bb09ca-ecdb-41b4-838c-7c851c7197d2) width="800" >
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/71bb09ca-ecdb-41b4-838c-7c851c7197d2)
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/71bb09ca-ecdb-41b4-838c-7c851c7197d2)
 
 
 2. _Data Conversion:_ Utilizing Excel, the scraped data underwent transformation into  table.
 
-<![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/2cec2571-2fcb-41c7-90ce-90674583264e) width="800" >
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/2cec2571-2fcb-41c7-90ce-90674583264e)
 
 
 3. _Data Cleaning and Preparation:_ The collected data has undergone thorough cleaning using Excel and Python(pandas). This process includes handling missing values, removing duplicates, and ensuring data consistency.
 
 
-![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/f93cc20f-e5c4-49c4-aeaa-c29743fedb59) width="800" >
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/f93cc20f-e5c4-49c4-aeaa-c29743fedb59)
 
 
 4. _Prediction:_ 
@@ -59,9 +58,10 @@ Price Prediction using Linear Regression : Developed a linear regression model t
 Location Prediction using Logistic Regression and Random Forest Classifier : Developed a Logistic Regression and Random Forest Classifier model that predicts location  based on the chosen prices and cuisine.
 
 
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/model%201.jpeg" width="800" >
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/model%202.jpeg" width="800" >
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/model%203.jpeg" width="800" >
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/77f9a0c3-45c7-407f-822f-345b1a37a381)
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/77f9a0c3-45c7-407f-822f-345b1a37a381)
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/81c3608a-e0ff-4834-8209-ce4a1f6444f7)
+
 
 
 
@@ -70,19 +70,15 @@ Location Prediction using Logistic Regression and Random Forest Classifier : Dev
 ## Results
 
 ### 1. This webpage is designed to accept user input for cuisine,preferred location and preferred price for one.
-<p align="center">
-  <img width="800" alt="image" src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/1.jpeg">
-</p>
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/224dd357-67a3-48a6-8653-74b0277f6a48)
 
-<p align="center">
-  <img width="800" alt="image" src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/2.jpeg">
-</p>
+
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/b54d2de1-5af4-45ca-be0b-53206330acdd)
+
 
 ### 2. The webpage generates output based on the Preferred Location and Cuisine by the users.
 
-<p align = "center">
-<img width="800" alt="image" src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/3.jpeg">
-</p>
+![image](https://github.com/aayushkataria123/Restaurant-Recommendation-Model/assets/137820574/f2b738b4-62f5-45f2-85e1-7ce26f455c0c)
 
 
 
